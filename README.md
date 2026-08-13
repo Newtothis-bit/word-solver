@@ -1,4 +1,4 @@
-# 🔤 Word Unscrambler
+# 🔤 Word-solver
 
 A fast, client-side word unscrambler tool that finds every valid word from any set of letters. Built with vanilla HTML, CSS, and JavaScript — **no server required**.
 
